@@ -17,8 +17,10 @@ To install Angular on your local system, you need the following:
 
     Angular requires an active LTS or maintenance LTS version of Node.js.
 
-	run node -v in a terminal window
-	run npm -v in a terminal window
+    Run in a terminal window
+
+		node -v 
+		npm -v
 
 
 # Install the Angular CLI
