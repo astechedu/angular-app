@@ -11,6 +11,16 @@ To use the Angular framework, you should be familiar with the following:
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*nbJ41jD1-r2Oe6FsLjKaOg.png" width="100" height="100">
 
+To install Angular on your local system, you need the following:
+
+    Node.js
+
+    Angular requires an active LTS or maintenance LTS version of Node.js.
+
+	run node -v in a terminal window
+	run npm -v in a terminal window
+
+
 # Install the Angular CLI
 
 	npm install -g @angular/cli
