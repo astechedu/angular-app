@@ -26,7 +26,7 @@ To use the Angular framework, you should be familiar with the following:
 
 The --open (or just -o) option automatically opens your browser to http://localhost:4200/.
 
-<img src="https://angular.io/generated/images/guide/setup-local/app-works.png" width="100" height="100">
+<img src="https://angular.io/generated/images/guide/setup-local/app-works.png" width="400" height="400">
 
 
 :+1:
